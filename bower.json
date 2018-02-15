@@ -1,0 +1,17 @@
+{
+  "name": "markup-tutor",
+  "homepage": "https://github.com/volfmessing/markup-tutor",
+  "authors": [
+    "vkhodak <vitalii.khodak@gmail.com>"
+  ],
+  "description": "test cases or markup",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
